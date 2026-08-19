@@ -84,6 +84,7 @@ documentation; production website and desktop source code remain private.
 | Tangled | [livefaceswapai.tngl.sh/livefaceswap](https://tangled.org/livefaceswapai.tngl.sh/livefaceswap) |
 | GitCode | [weixin_52314137/livefaceswap](https://gitcode.com/weixin_52314137/livefaceswap) |
 | Gitee | [yhc2073/livefaceswap](https://gitee.com/yhc2073/livefaceswap) |
+| Gitea | [livefaceswap-official/livefaceswap](https://gitea.com/livefaceswap-official/livefaceswap) |
 | Codeberg | [livefaceswapai/livefaceswap](https://codeberg.org/livefaceswapai/livefaceswap) |
 | Disroot Git | [livefaceswapai/livefaceswap](https://git.disroot.org/livefaceswapai/livefaceswap) |
 | Launchpad | [~livefaceswapai/+git/livefaceswap](https://code.launchpad.net/~livefaceswapai/+git/livefaceswap) |
