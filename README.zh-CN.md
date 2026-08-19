@@ -71,7 +71,22 @@
 | 支持 | [LiveFaceSwap AI 支持说明](SUPPORT.md) |
 | 安全 | [LiveFaceSwap AI 安全政策](SECURITY.md) |
 
+## 官方镜像
+
+GitHub 是权威公开仓库。以下镜像均已实际验证在线，用于不同代码托管平台的
+产品发现和公开反馈；线上网站与桌面端的生产源代码仍保持私有。
+
+| 平台 | 官方镜像 |
+| --- | --- |
+| GitLab | [livefaceswapai1/livefaceswap](https://gitlab.com/livefaceswapai1/livefaceswap) |
+| Bitbucket | [livefaceswapai/livefaceswap](https://bitbucket.org/livefaceswapai/livefaceswap) |
+| Tangled | [livefaceswapai.tngl.sh/livefaceswap](https://tangled.org/livefaceswapai.tngl.sh/livefaceswap) |
+| GitCode | [weixin_52314137/livefaceswap](https://gitcode.com/weixin_52314137/livefaceswap) |
+| Gitee | [yhc2073/livefaceswap](https://gitee.com/yhc2073/livefaceswap) |
+| Codeberg | [livefaceswapai/livefaceswap](https://codeberg.org/livefaceswapai/livefaceswap) |
+| Disroot Git | [livefaceswapai/livefaceswap](https://git.disroot.org/livefaceswapai/livefaceswap) |
+| Launchpad | [~livefaceswapai/+git/livefaceswap](https://code.launchpad.net/~livefaceswapai/+git/livefaceswap) |
+
 ## 语言说明
 
 英文 README 是当前产品边界的权威版本。本中文 README 提供完整中文说明；如果两者表述存在差异，请以[英文版本](README.md)为准或联系支持团队。
-

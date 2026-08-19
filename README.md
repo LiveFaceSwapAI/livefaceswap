@@ -71,7 +71,23 @@ Before filing an issue, remove faces, account details, payment information, acce
 | Support | [LiveFaceSwap AI support guide](SUPPORT.md) |
 | Security | [LiveFaceSwap AI security policy](SECURITY.md) |
 
+## Official Mirrors
+
+GitHub is the canonical public repository. The following verified mirrors provide
+platform-specific discovery and feedback routes for the same public-safe product
+documentation; production website and desktop source code remain private.
+
+| Platform | Official mirror |
+| --- | --- |
+| GitLab | [livefaceswapai1/livefaceswap](https://gitlab.com/livefaceswapai1/livefaceswap) |
+| Bitbucket | [livefaceswapai/livefaceswap](https://bitbucket.org/livefaceswapai/livefaceswap) |
+| Tangled | [livefaceswapai.tngl.sh/livefaceswap](https://tangled.org/livefaceswapai.tngl.sh/livefaceswap) |
+| GitCode | [weixin_52314137/livefaceswap](https://gitcode.com/weixin_52314137/livefaceswap) |
+| Gitee | [yhc2073/livefaceswap](https://gitee.com/yhc2073/livefaceswap) |
+| Codeberg | [livefaceswapai/livefaceswap](https://codeberg.org/livefaceswapai/livefaceswap) |
+| Disroot Git | [livefaceswapai/livefaceswap](https://git.disroot.org/livefaceswapai/livefaceswap) |
+| Launchpad | [~livefaceswapai/+git/livefaceswap](https://code.launchpad.net/~livefaceswapai/+git/livefaceswap) |
+
 ## Language Authority
 
 The English README is authoritative for current product boundaries. The [complete Simplified Chinese README](README.zh-CN.md) is maintained for Chinese readers; if wording differs, follow the English version or contact support.
-
