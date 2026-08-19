@@ -88,6 +88,7 @@ GitHub 是权威公开仓库。以下镜像均已实际验证在线，用于不�
 | Disroot Git | [livefaceswapai/livefaceswap](https://git.disroot.org/livefaceswapai/livefaceswap) |
 | Launchpad | [~livefaceswapai/+git/livefaceswap](https://code.launchpad.net/~livefaceswapai/+git/livefaceswap) |
 | repo.or.cz | [livefaceswap.git](https://repo.or.cz/livefaceswap.git) |
+| SourceForge | [livefaceswap/code](https://sourceforge.net/p/livefaceswap/code/) |
 
 ## 语言说明
 

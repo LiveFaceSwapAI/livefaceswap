@@ -89,6 +89,7 @@ documentation; production website and desktop source code remain private.
 | Disroot Git | [livefaceswapai/livefaceswap](https://git.disroot.org/livefaceswapai/livefaceswap) |
 | Launchpad | [~livefaceswapai/+git/livefaceswap](https://code.launchpad.net/~livefaceswapai/+git/livefaceswap) |
 | repo.or.cz | [livefaceswap.git](https://repo.or.cz/livefaceswap.git) |
+| SourceForge | [livefaceswap/code](https://sourceforge.net/p/livefaceswap/code/) |
 
 ## Language Authority
 
