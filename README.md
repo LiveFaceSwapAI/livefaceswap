@@ -12,6 +12,12 @@ Official public product repository for [LiveFaceSwap AI real-time face swap](htt
 
 This repository is the canonical place for public product feedback, workflow questions, roadmap notes, support guidance, and security reporting. It does not publish the private production source code for the website or desktop application.
 
+## Start Here
+
+- [Try LiveFaceSwap AI in the browser](https://livefaceswap.ai) for an installation-free preview with an authorized reference.
+- [Review the Windows 11 Desktop workflow](https://livefaceswap.ai/desktop) when you need **LiveFaceSwap Camera** in compatible software.
+- Use [GitHub Issues](https://github.com/LiveFaceSwapAI/livefaceswap/issues) for public, reproducible product feedback; use [SUPPORT.md](SUPPORT.md) or [SECURITY.md](SECURITY.md) when details should remain private.
+
 ## Product Preview
 
 ![LiveFaceSwap AI browser workspace with camera input and live AI output](assets/screenshots/homepage.png)
