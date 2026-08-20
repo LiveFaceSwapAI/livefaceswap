@@ -80,7 +80,7 @@ Before filing an issue, remove faces, account details, payment information, acce
 ## Official Mirrors
 
 GitHub is the canonical public repository. The following verified mirrors provide
-platform-specific discovery and feedback routes for the same public-safe product
+platform-specific access and feedback routes for the same public product
 documentation; production website and desktop source code remain private.
 
 | Platform | Official mirror |
