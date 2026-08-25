@@ -71,6 +71,7 @@ Before filing an issue, remove faces, account details, payment information, acce
 | --- | --- |
 | Official product | [LiveFaceSwap AI real-time face swap](https://livefaceswap.ai) |
 | Desktop workflow | [LiveFaceSwap Desktop virtual camera for Windows 11](https://livefaceswap.ai/desktop) |
+| Mianbaoduo | [LiveFaceSwap AI on Mianbaoduo](https://mbd.pub/o/bread/YZaUmpdqZA==) |
 | Canonical repository | [LiveFaceSwap AI public product repository](https://github.com/LiveFaceSwapAI/livefaceswap) |
 | Public feedback | [LiveFaceSwap AI GitHub Issues](https://github.com/LiveFaceSwapAI/livefaceswap/issues) |
 | Roadmap | [LiveFaceSwap AI public roadmap](ROADMAP.md) |
