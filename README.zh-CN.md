@@ -71,6 +71,17 @@
 | 支持 | [LiveFaceSwap AI 支持说明](SUPPORT.md) |
 | 安全 | [LiveFaceSwap AI 安全政策](SECURITY.md) |
 
+## 官方浏览器扩展
+
+可从以下已经验证的浏览器扩展商店安装 LiveFaceSwap AI：
+
+| 浏览器 | 官方商店页面 |
+| --- | --- |
+| Google Chrome | [Chrome 应用商店中的 LiveFaceSwap AI](https://chromewebstore.google.com/detail/livefaceswap-ai-%E2%80%94-real-ti/pommheokdenhigdnccfnnjpdlbeiahlp) |
+| Microsoft Edge | [Microsoft Edge 扩展商店中的 LiveFaceSwap AI](https://microsoftedge.microsoft.com/addons/detail/bfkahcilhkinhkibnejdbamepkhkgcdb) |
+| Mozilla Firefox | [Firefox 附加组件商店中的 LiveFaceSwap AI Face Swap](https://addons.mozilla.org/en-US/firefox/addon/livefaceswap-ai-face-swap/) |
+| NAVER Whale | [Whale 商店中的 LiveFaceSwap AI](https://store.whale.naver.com/detail/hcjmebaedgjkpkgjjmokegpooknijnfd?hl=en) |
+
 ## 官方镜像
 
 GitHub 是权威公开仓库。以下镜像均已实际验证在线，用于不同代码托管平台的

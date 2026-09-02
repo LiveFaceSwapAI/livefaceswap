@@ -78,6 +78,17 @@ Before filing an issue, remove faces, account details, payment information, acce
 | Support | [LiveFaceSwap AI support guide](SUPPORT.md) |
 | Security | [LiveFaceSwap AI security policy](SECURITY.md) |
 
+## Official Browser Extensions
+
+Install LiveFaceSwap AI from a verified browser extension store:
+
+| Browser | Official store listing |
+| --- | --- |
+| Google Chrome | [LiveFaceSwap AI on the Chrome Web Store](https://chromewebstore.google.com/detail/livefaceswap-ai-%E2%80%94-real-ti/pommheokdenhigdnccfnnjpdlbeiahlp) |
+| Microsoft Edge | [LiveFaceSwap AI on Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/bfkahcilhkinhkibnejdbamepkhkgcdb) |
+| Mozilla Firefox | [LiveFaceSwap AI Face Swap on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/livefaceswap-ai-face-swap/) |
+| NAVER Whale | [LiveFaceSwap AI on the Whale Store](https://store.whale.naver.com/detail/hcjmebaedgjkpkgjjmokegpooknijnfd?hl=en) |
+
 ## Official Mirrors
 
 GitHub is the canonical public repository. The following verified mirrors provide
