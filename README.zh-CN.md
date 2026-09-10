@@ -65,6 +65,7 @@
 | --- | --- |
 | 官方产品 | [LiveFaceSwap AI 实时换脸工具](https://livefaceswap.ai) |
 | 桌面端流程 | [Windows 11 版 LiveFaceSwap Desktop 虚拟摄像头](https://livefaceswap.ai/desktop) |
+| 换脸教程会议 | [预约 LiveFaceSwap 一对一步骤教学](https://cal.com/mix-fix/livefaceswap?overlayCalendar=true) |
 | 权威仓库 | [LiveFaceSwap AI 官方公开产品仓库](https://github.com/LiveFaceSwapAI/livefaceswap) |
 | 公开反馈 | [LiveFaceSwap AI GitHub Issues](https://github.com/LiveFaceSwapAI/livefaceswap/issues) |
 | 路线图 | [LiveFaceSwap AI 公开路线图](ROADMAP.md) |
