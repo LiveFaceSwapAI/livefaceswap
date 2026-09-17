@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>ai.livefaceswap.LiveFaceSwap</id>
+  <name>LiveFaceSwap</name>
+  <summary>Real-time AI face swap from your webcam</summary>
+  <developer id="ai.livefaceswap">
+    <name>LiveFaceSwap AI</name>
+  </developer>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LicenseRef-proprietary=https://livefaceswap.ai/terms-of-service</project_license>
+  <description>
+    <p>LiveFaceSwap is a real-time AI face swap desktop client. It connects to the LiveFaceSwap cloud service, so no local GPU is required.</p>
+    <p>The Linux version provides real-time preview and does not currently include a virtual camera.</p>
+    <p>Live sessions consume metered credits at the rate shown before starting. Additional credits are available for purchase.</p>
+  </description>
+  <url type="homepage">https://livefaceswap.ai/</url>
+  <url type="help">https://livefaceswap.ai/support</url>
+  <launchable type="desktop-id">ai.livefaceswap.LiveFaceSwap.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://github.com/LiveFaceSwapAI/livefaceswap/releases/download/v0.2.10/LiveFaceSwap-Linux-0.2.10-Flatpak-screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="0.2.10" date="2026-09-15"/>
+  </releases>
+  <content_rating type="oars-1.1"/>
+</component>

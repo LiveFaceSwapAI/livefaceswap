@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=LiveFaceSwap
+Comment=Real-time AI face swap desktop client
+Exec=livefaceswap-desktop %U
+Icon=ai.livefaceswap.LiveFaceSwap
+Terminal=false
+Type=Application
+Categories=AudioVideo;Video;
+MimeType=x-scheme-handler/ai.livefaceswap.desktop;
+StartupWMClass=LiveFaceSwap
