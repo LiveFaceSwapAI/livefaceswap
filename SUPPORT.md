@@ -2,7 +2,7 @@
 
 ## Public Product Feedback
 
-Use [LiveFaceSwap AI GitHub Issues](https://github.com/LiveFaceSwapAI/livefaceswap/issues) for reproducible product feedback that is safe to discuss publicly. Include the affected surface (browser preview or Desktop), Windows build when relevant, expected result, actual result, and concise reproduction steps.
+Use [LiveFaceSwap AI GitHub Issues](https://github.com/LiveFaceSwapAI/livefaceswap/issues) for reproducible product feedback that is safe to discuss publicly. Include the affected surface (browser preview or Desktop), operating system and app version when relevant, expected result, actual result, and concise reproduction steps.
 
 Before posting, remove faces, uploaded references, names, account identifiers, billing information, tokens, and sensitive logs.
 
@@ -17,4 +17,3 @@ The [canonical LiveFaceSwap AI repository](https://github.com/LiveFaceSwapAI/liv
 ## Security Reports
 
 Do not open a public issue for suspected vulnerabilities. Follow [SECURITY.md](SECURITY.md).
-

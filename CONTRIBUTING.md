@@ -5,7 +5,7 @@ Thank you for helping improve the public LiveFaceSwap AI experience.
 ## Good Contributions
 
 - Correct or clarify public documentation.
-- Provide minimal reproduction steps for browser or Windows 11 Desktop workflows.
+- Provide minimal reproduction steps for browser or Windows, macOS, and Linux Desktop workflows.
 - Suggest accessibility, localization, safety, or troubleshooting improvements.
 - Propose roadmap ideas grounded in a real user workflow.
 
@@ -20,4 +20,3 @@ Thank you for helping improve the public LiveFaceSwap AI experience.
 This repository does not contain the private production application source. A documentation pull request does not imply access to or changes in the production service.
 
 By participating, you agree to follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
-

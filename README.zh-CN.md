@@ -16,7 +16,7 @@
 
 ![LiveFaceSwap AI 浏览器工作区，包含摄像头输入和实时 AI 输出](assets/screenshots/homepage.png)
 
-![LiveFaceSwap Desktop 下载页与 Windows 11 虚拟摄像头说明](assets/screenshots/desktop.png)
+![LiveFaceSwap Desktop 下载页与虚拟摄像头说明](assets/screenshots/desktop.png)
 
 ## 主要功能
 
@@ -24,7 +24,8 @@
 - 根据需要选择 Face Swap、Try-On 或 Restyle，并使用相应的已授权参考图。
 - 在继续较长的会话之前，对比原始摄像头输入与实时 AI 输出。
 - 启动会话前查看当前模型和按秒计量的积分费率。
-- 安装 [Windows 11 版 LiveFaceSwap Desktop](https://livefaceswap.ai/desktop)，在兼容软件中选择 **LiveFaceSwap Camera** 作为虚拟摄像头。
+- 在 Windows 11 或 Apple Silicon Mac 上安装 [LiveFaceSwap Desktop](https://livefaceswap.ai/desktop)，在兼容软件中选择 **LiveFaceSwap Camera** 作为虚拟摄像头。
+- 使用 [Linux 桌面版](https://github.com/LiveFaceSwapAI/livefaceswap/releases/latest)进行实时摄像头预览；Linux 目前不提供虚拟摄像头。
 - 使用云端处理，无需另外下载本地 AI 模型或配备独立显卡；运行时需要稳定的网络连接。
 
 ## 浏览器与桌面流程
@@ -32,13 +33,15 @@
 | 流程 | 适用场景 | 当前边界 |
 | --- | --- | --- |
 | 浏览器预览 | 使用摄像头测试 Face Swap、Try-On 或 Restyle | 仅用于预览，不会创建可供其他软件选择的摄像头设备 |
-| LiveFaceSwap Desktop | 将变换后的画面发送到兼容的直播、会议或视频通话软件 | 公开下载面向 Windows 11 x64，系统内部版本 22000 或以上 |
-| macOS Early Access | 登记未来 Mac 工作流程的试用意向 | 目前仅接受申请，没有公开的 macOS 安装包 |
+| Windows 桌面版 | 通过 LiveFaceSwap Camera 将变换后的画面发送到兼容软件 | Windows 11 x64，系统内部版本 22000 或以上 |
+| macOS 桌面版 | 通过 LiveFaceSwap Camera 将变换后的画面发送到兼容软件 | Apple Silicon，macOS 13 或更新版本 |
+| Linux 桌面版 | 在应用内实时预览变换后的摄像头画面 | 提供 x64 DEB、AppImage 和独立 Flatpak 安装包；目前没有虚拟摄像头 |
 
 请只处理已经获得当事人许可的图片和实时画面。正式直播或加入通话前先进行私下测试；在适当场景明确说明合成媒体；不得将产品用于冒充、欺诈、骚扰或欺骗。
 
 ## 最近更新
 
+- 2026-09：发布 Windows、Apple Silicon macOS 和 Linux 桌面版；Linux 目前支持实时预览，暂不支持虚拟摄像头输出。
 - 2026-07：增加 Windows 11 Desktop 下载入口和 LiveFaceSwap Camera 虚拟摄像头流程。
 - 2026-07：明确浏览器仅用于预览、费率会在启动前显示、桌面端依赖云处理，以及 macOS 仍处于 Early Access 申请阶段。
 - 2026-07：开放本公开仓库，用于产品反馈、路线图讨论、支持与安全问题分流。
@@ -64,7 +67,8 @@
 | 目的 | 链接 |
 | --- | --- |
 | 官方产品 | [LiveFaceSwap AI 实时换脸工具](https://livefaceswap.ai) |
-| 桌面端流程 | [Windows 11 版 LiveFaceSwap Desktop 虚拟摄像头](https://livefaceswap.ai/desktop) |
+| 桌面端流程 | [Windows 和 macOS 版 LiveFaceSwap Desktop](https://livefaceswap.ai/desktop) |
+| 桌面端下载 | [Windows、macOS 与 Linux 官方发布包](https://github.com/LiveFaceSwapAI/livefaceswap/releases/latest) |
 | 换脸教程会议 | [预约 LiveFaceSwap 一对一步骤教学](https://cal.com/mix-fix/livefaceswap?overlayCalendar=true) |
 | 权威仓库 | [LiveFaceSwap AI 官方公开产品仓库](https://github.com/LiveFaceSwapAI/livefaceswap) |
 | 公开反馈 | [LiveFaceSwap AI GitHub Issues](https://github.com/LiveFaceSwapAI/livefaceswap/issues) |

@@ -8,14 +8,15 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-Official public product repository for [LiveFaceSwap AI real-time face swap](https://livefaceswap.ai). Test an authorized portrait, outfit, or style reference with a webcam in the browser, then use LiveFaceSwap Desktop when you need Windows 11 virtual-camera output.
+Official public product repository for [LiveFaceSwap AI real-time face swap](https://livefaceswap.ai). Test an authorized portrait, outfit, or style reference with a webcam in the browser. LiveFaceSwap Desktop provides virtual-camera output on Windows 11 and Apple Silicon Macs, plus real-time camera preview on Linux.
 
 This repository is the canonical place for public product feedback, workflow questions, roadmap notes, support guidance, and security reporting. It does not publish the private production source code for the website or desktop application.
 
 ## Start Here
 
 - [Try LiveFaceSwap AI in the browser](https://livefaceswap.ai) for an installation-free preview with an authorized reference.
-- [Review the Windows 11 Desktop workflow](https://livefaceswap.ai/desktop) when you need **LiveFaceSwap Camera** in compatible software.
+- [Review the Desktop workflow](https://livefaceswap.ai/desktop) for **LiveFaceSwap Camera** on Windows and macOS.
+- [Download the official desktop release](https://github.com/LiveFaceSwapAI/livefaceswap/releases/latest) for Windows, macOS, or Linux.
 - Use [GitHub Issues](https://github.com/LiveFaceSwapAI/livefaceswap/issues) for public, reproducible product feedback; use [SUPPORT.md](SUPPORT.md) or [SECURITY.md](SECURITY.md) when details should remain private.
 
 ## Product Preview
@@ -30,7 +31,8 @@ This repository is the canonical place for public product feedback, workflow que
 - Choose Face Swap, Try-On, or Restyle with an appropriate authorized reference.
 - Compare camera input and live AI output before continuing with a longer session.
 - See the selected model and metered credit rate before a live session starts.
-- Install [LiveFaceSwap Desktop for Windows 11](https://livefaceswap.ai/desktop) and expose processed output as **LiveFaceSwap Camera** in compatible software.
+- Install [LiveFaceSwap Desktop](https://livefaceswap.ai/desktop) on Windows 11 or an Apple Silicon Mac and expose processed output as **LiveFaceSwap Camera** in compatible software.
+- Use the [Linux desktop release](https://github.com/LiveFaceSwapAI/livefaceswap/releases/latest) for real-time camera preview; Linux does not yet provide a virtual camera.
 - Use cloud processing without downloading a separate local AI model or requiring a dedicated GPU; a stable internet connection is required.
 
 ## Browser And Desktop Workflows
@@ -38,13 +40,15 @@ This repository is the canonical place for public product feedback, workflow que
 | Workflow | Best for | Current boundary |
 | --- | --- | --- |
 | Browser preview | Testing Face Swap, Try-On, or Restyle from a webcam | Preview only; it does not create a cross-app camera device |
-| LiveFaceSwap Desktop | Sending transformed output into compatible streaming, meeting, or video-call software | Public download targets Windows 11 x64, build 22000 or newer |
-| macOS Early Access | Registering interest in a future Mac workflow | Request-only; there is no public macOS installer |
+| Windows Desktop | Sending transformed output to compatible software through LiveFaceSwap Camera | Windows 11 x64, build 22000 or newer |
+| macOS Desktop | Sending transformed output to compatible software through LiveFaceSwap Camera | Apple Silicon, macOS 13 or newer |
+| Linux Desktop | Previewing transformed camera output in the app | x64 DEB, AppImage, and standalone Flatpak downloads; no virtual camera yet |
 
 Only use images and live transformations with the subject's permission. Test privately before broadcasting, disclose synthetic media where context calls for it, and do not use the product for impersonation, fraud, harassment, or deception.
 
 ## Recent Updates
 
+- 2026-09: Released LiveFaceSwap Desktop for Windows, Apple Silicon macOS, and Linux. Linux currently supports real-time preview without virtual-camera output.
 - 2026-07: Added the Windows 11 Desktop download path and LiveFaceSwap Camera virtual-camera workflow.
 - 2026-07: Clarified the browser preview boundary, visible metered rate, cloud-processing requirement, and macOS Early Access status.
 - 2026-07: Opened this public repository for product feedback, roadmap discussion, support, and security routing.
@@ -70,7 +74,8 @@ Before filing an issue, remove faces, account details, payment information, acce
 | Destination | Link |
 | --- | --- |
 | Official product | [LiveFaceSwap AI real-time face swap](https://livefaceswap.ai) |
-| Desktop workflow | [LiveFaceSwap Desktop virtual camera for Windows 11](https://livefaceswap.ai/desktop) |
+| Desktop workflow | [LiveFaceSwap Desktop for Windows and macOS](https://livefaceswap.ai/desktop) |
+| Desktop downloads | [Official Windows, macOS, and Linux releases](https://github.com/LiveFaceSwapAI/livefaceswap/releases/latest) |
 | Mianbaoduo | [LiveFaceSwap AI on Mianbaoduo](https://mbd.pub/o/bread/YZaUmpdqZA==) |
 | Live tutorial meeting | [Book a step-by-step LiveFaceSwap face-swap tutorial](https://cal.com/mix-fix/livefaceswap?overlayCalendar=true) |
 | Canonical repository | [LiveFaceSwap AI public product repository](https://github.com/LiveFaceSwapAI/livefaceswap) |
