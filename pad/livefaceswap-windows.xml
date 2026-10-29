@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Hand-authored</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description for software directories.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Nano Agent LLC</Company_Name>
+    <Company_WebSite_URL>https://livefaceswap.ai/</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Chris</Contact_First_Name>
+      <Contact_Last_Name>Fox</Contact_Last_Name>
+      <Contact_Email>support@livefaceswap.ai</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Support_Email>support@livefaceswap.ai</Support_Email>
+      <General_Email>support@livefaceswap.ai</General_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>LiveFaceSwap Desktop</Program_Name>
+    <Program_Version>0.2.17</Program_Version>
+    <Program_Release_Month>10</Program_Release_Month>
+    <Program_Release_Day>26</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
+    <Program_Cost_Other>Usage-based credits</Program_Cost_Other>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Minor Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>WinVista,Win7,Win8,Win10,Win11,WinOther</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Category_Class>Communications::Web/Video Cams</Program_Category_Class>
+    <Program_System_Requirements>64-bit Windows 11 (build 22000+); internet; LiveFaceSwap account for AI processing.</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>113745968</File_Size_Bytes>
+      <File_Size_K>111080</File_Size_K>
+      <File_Size_MB>108.48</File_Size_MB>
+    </File_Info>
+    <Expire_Info><Has_Expire_Info>N</Has_Expire_Info></Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>AI face swap, virtual camera, live video, streaming, Try-On, Restyle, LiveFaceSwap</Keywords>
+      <Char_Desc_45>Real-time AI video effects for desktop.</Char_Desc_45>
+      <Char_Desc_80>Real-time face swap, try-on and restyling with virtual-camera output.</Char_Desc_80>
+      <Char_Desc_250>LiveFaceSwap Desktop applies an authorized reference image to your live camera for Face Swap, Live Try-On, and Live Restyle. On Windows it can output via LiveFaceSwap Camera to compatible streaming and meeting apps. Free installer; cloud AI needs...</Char_Desc_250>
+      <Char_Desc_450>LiveFaceSwap Desktop applies Face Swap, Live Try-On and Live Restyle to a live camera using an authorized reference image. Windows can output via LiveFaceSwap Camera to compatible streaming and meeting apps. Free installer; cloud AI needs account, internet and credits. Publisher: Nano Agent LLC.</Char_Desc_450>
+      <Char_Desc_2000>LiveFaceSwap Desktop is the official desktop client for LiveFaceSwap AI (Nano Agent LLC). Preview real-time AI video transformations on a webcam feed: Face Swap, Live Try-On, and Live Restyle, using reference images you own or are authorized to use. On Windows 11, the app can provide a LiveFaceSwap Camera virtual-camera output for compatible OBS, livestream, recording, and video-call software. Processing runs in the cloud, so a dedicated local GPU is not required. The installer is free; AI sessions require a LiveFaceSwap account, internet, and credits or entitlements. Version 0.2.17 (2026-10-26) includes realtime pipeline upgrades, clearer model/queue status, Halloween reference gallery, async reference review, free camera trial improvements, Windows virtual-camera branding/localization fixes, and account/credits refresh refinements. Publisher: Nano Agent LLC · Chris Fox · support@livefaceswap.ai · https://livefaceswap.ai/desktop</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://livefaceswap.ai/desktop</Application_Info_URL>
+      <Application_Order_URL>https://livefaceswap.ai/desktop</Application_Order_URL>
+      <Application_Screenshot_URL>https://livefaceswap.ai/images/og/livefaceswap-ai.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://livefaceswap.ai/icon-32.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/LiveFaceSwapAI/livefaceswap/main/pad/livefaceswap-windows.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://r2.livefaceswap.ai/downloads/client/stable/windows-x64/LiveFaceSwap-Setup-0.2.17-x64.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://github.com/LiveFaceSwapAI/livefaceswap/releases/download/v0.2.17/LiveFaceSwap-Setup-0.2.17-x64.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1>https://livefaceswap.ai/api/client/download/windows</Additional_Download_URL_1>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Distribute the unchanged installer with intact digital signature and this PAD file. Do not alter binaries or claim sponsorship without written permission from Nano Agent LLC.</Distribution_Permissions>
+    <Eula>https://livefaceswap.ai/terms-of-service</Eula>
+  </Permissions>
+</XML_DIZ_INFO>
